@@ -1,0 +1,35 @@
+body{
+    background: url(../img/24.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;      
+  } 
+
+  h1 { 
+    position: absolute; /* Абсолютное позиционирование */
+    bottom: 500px; /* Положение от нижнего края */
+    left: 580px; /* Положение от правого края */
+    line-height: 1px;
+  }
+
+h2 { 
+    color: #000000;
+    position: absolute; 
+    bottom: 900px; 
+    left: 760px; 
+    line-height: 1px;
+  }
+
+h3 { 
+  position: absolute; 
+  bottom: 0px; 
+  left: 575px; 
+  line-height: 1px;
+}
+
+textarea {
+  color: red;
+  background-color: transparent;
+  border-color: transparent;
+}
